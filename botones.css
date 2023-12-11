@@ -47,3 +47,6 @@ button:hover:after{
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
 }
+.transparente{
+    opacity: 0;
+}
