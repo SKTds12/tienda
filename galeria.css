@@ -15,3 +15,6 @@
     opacity: 1;
     filter: brightness(130%);
 }
+.transparente{
+    opacity: 0;
+}
