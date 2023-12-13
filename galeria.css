@@ -18,7 +18,7 @@
 .transparente{
     opacity: 0;
 }
-@media (max-width:400px) {
+@media (max-width:600px) {
     .galeria{
         display: flex;
         width: 400px;
