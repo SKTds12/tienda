@@ -32,6 +32,11 @@
         transition: .7s ease;
     }
     .galeria img:hover{
+        width: 200px;
+        opacity: 1;
+        filter: brightness(130%);
+    }
+}
         width: 800px;
         opacity: 1;
         filter: brightness(130%);
