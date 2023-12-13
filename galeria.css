@@ -21,7 +21,7 @@
 @media (max-width:600px) {
     .galeria{
         display: flex;
-        width: 400px;
+        width: 350px;
         height: 100px;
     }
     .galeria img{
